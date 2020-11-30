@@ -1,2 +1,2 @@
-# next-media-optimization
-My presentation on how I have optimized our media player at Axon 🏎
+# ui-recusive-rendering
+My presentation on UI Recursive Rendering at Axon's Front-end Council - December 2nd 🎉
