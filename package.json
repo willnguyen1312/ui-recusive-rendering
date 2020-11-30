@@ -9,6 +9,10 @@
   "name": "var-hls",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Nam Nguyen",
+  "author": {
+    "email": "nam.nguyen.node@gmail.com",
+    "name": "Nam Nguyen",
+    "url": "https://namnguyen.design"
+  },
   "license": "MIT"
 }
